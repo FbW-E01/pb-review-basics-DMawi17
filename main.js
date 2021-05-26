@@ -14,7 +14,7 @@ const doubleQuoteString = "My extension turn single quotes to double anyways.";
 
 
 // 4. Make a variable and assign a string to that variable using single quotes. Make sure that variable cannot be changed.
-const singleQuoteString = "Ok, i make sure not to format this time.";
+const singleQuoteString = 'Ok, i make sure not to format this time.';
 
 
 // 5. Make a variable and assign a string to that variable using a template literal. Make sure that variable cannot be changed.
